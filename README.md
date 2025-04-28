@@ -1,3 +1,5 @@
+ [<img src="https://devin.ai/assets/deepwiki-badge.png" alt="Ask DeepWiki.com" height="20"/>](https://deepwiki.com/zhiwehu/Python-programming-exercises)
+ 
 # Python-programming-exercises
 
 100+ Python challenge programming exercises.
